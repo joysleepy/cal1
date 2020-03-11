@@ -6,7 +6,6 @@ body{
 }
 
 header{
-    width: 100;
     text-align: center;
     padding: 5px;
     border: 1px solid lightskyblue;
@@ -28,7 +27,6 @@ section#derReservados{
 */
 section.mainBlock{
     display: block;
-    width: 100%;
     background-color: wheat;
     padding: 10px;
     margin-bottom: 10px;
