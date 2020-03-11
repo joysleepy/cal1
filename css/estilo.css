@@ -13,10 +13,6 @@ header{
     margin-bottom: 10px;
 }
 
-header p{
-    text-align: justify;
-}
-
 /*
     2. Ids
 */
@@ -36,6 +32,7 @@ section.mainBlock{
     background-color: wheat;
     padding: 10px;
     margin-bottom: 10px;
+    text-align: justify;
 }
 
 div.fotos figure img{
