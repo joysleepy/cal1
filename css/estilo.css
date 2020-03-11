@@ -28,7 +28,7 @@ section#derReservados{
 */
 section.mainBlock{
     display: block;
-    width: 80%;
+    width: 100%;
     background-color: wheat;
     padding: 10px;
     margin-bottom: 10px;
