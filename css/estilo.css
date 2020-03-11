@@ -13,6 +13,10 @@ header{
     margin-bottom: 10px;
 }
 
+header p{
+    text-align: justify;
+}
+
 /*
     2. Ids
 */
